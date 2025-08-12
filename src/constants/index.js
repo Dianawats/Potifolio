@@ -150,10 +150,11 @@ const expCards = [
     review: "Diana brought creativity and technical expertise to the team, significantly improving our frontend performance. Her work has been invaluable in delivering faster experiences.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
-    title: "Full-Stack Developer",
+    title: "IT Lead | Software Developer | Aspiring Data Scientist",
     date: "July 2022 - Present",
     responsibilities: [
-      "Developed and maintained user-facing features for the Future Options website.",
+      "Developed & maintained user-facing features for the Future Options webapp & website.",
+      "Software Development | Systems & Network Admin |Cybersecurity | Digital Marketing | Administration  .",
       "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
       "Optimized web applications for maximum speed and scalability.",
     ],
@@ -162,7 +163,7 @@ const expCards = [
     review: "Diana’s contributions to WireAPI's web applications have been outstanding. She approaches challenges with a problem-solving mindset.",
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
-    title: "Full Stack Developer",
+    title: "Remote IT/ Software Developer",
     date: "January 2019 - November 2022",
     responsibilities: [
       "Led the development of WireAPI's web applications, focusing on scalability.",
@@ -174,7 +175,7 @@ const expCards = [
     review: "Didi’s work on Research’s mobile app brought a high level of quality and efficiency. She delivered solutions that enhanced our mobile experience & meet our product goals.",
     imgPath: "/images/exp3.png",
     logoPath: "/images/logo3.png",
-    title: "Full Stack Developer",
+    title: "Full Stack Developer (Remote)",
     date: "March 2019 - May 2020",
     responsibilities: [
       "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
