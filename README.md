@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
 
-  <h3 align="center">My Personal 3D Portfolio Website</h3>
+  <h3 align="center">Personal 3D Portfolio Website</h3>
 
 ## ⚠️ Not Just Dreaming of Change, BUILDING IT⚠️
 
@@ -32,8 +32,6 @@
 ## <a name="introduction">🤖 Introduction</a>
 
 The 3D Portfolio project is a highly engaging personal website that features animated 3D scenes, smooth camera transitions, interactive model showcases, and responsive design. It’s ideal for developers, designers, or freelancers looking to stand out in the digital crowd.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
 
 <a href="#" target="_blank"><img src="https://github.com/" /></a>
 
@@ -82,7 +80,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/dianawats/Portfolio.git
+git clone https://github.com/dianawats/Potitfolio.git
 cd Portfolio
 ```
 
